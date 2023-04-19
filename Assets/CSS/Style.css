@@ -1,0 +1,71 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-image: url(../Imgs/FUNKO_PAGE_HEADER_BANNERS_2.png);
+    background-size: cover;
+    background-position: center;
+    height: 25em;
+}
+
+.titulo{
+    padding: 7em 0em 0em 10em
+    
+}
+
+.art1{
+    display: flex;
+    margin: 3em;
+    justify-content: left;
+}
+
+.art1 img{
+    width: 250px;
+    margin: 1em;
+}
+
+.caja1{
+    font-size: 20px;
+    margin: 3em;
+}
+
+.art2{
+    display: flex;
+    margin: 3em;
+    justify-content: left;
+}
+
+.art2 img{
+    width: 250px;
+    margin: 1em;
+}
+
+.caja2{
+    font-size: 20px;
+    margin: 3em;
+}
+
+.art3{
+    display: flex;
+    margin: 3em;
+    justify-content: left;
+}
+
+.art3 img{
+    width: 250px;
+    margin: 1em;
+}
+
+.caja3{
+    font-size: 20px;
+    margin: 3em;
+    justify-content: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    border-radius: 3em;
+    text-align: center;
+}
